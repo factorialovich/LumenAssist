@@ -1,1 +1,10 @@
-
+{
+  "rt.zip": "https://raw.githubusercontent.com/factorialovich/LumenAssist/main/assets/rt.zip",
+  "kotlinc.zip": "https://raw.githubusercontent.com/factorialovich/LumenAssist/main/assets/kotlinc.zip",
+  "javac.zip": "https://raw.githubusercontent.com/factorialovich/LumenAssist/main/assets/javac.zip",
+  "google-maven.zip": "https://raw.githubusercontent.com/factorialovich/LumenAssist/main/assets/google-maven.zip",
+  "android-sources.zip": "https://raw.githubusercontent.com/factorialovich/LumenAssist/main/assets/android-sources.zip",
+  "templates.zip": "https://raw.githubusercontent.com/factorialovich/LumenAssist/main/assets/templates.zip",
+  "Icons.zip": "https://raw.githubusercontent.com/factorialovich/LumenAssist/main/assets/Icons.zip",
+  "lambda-stubs.zip": "https://raw.githubusercontent.com/factorialovich/LumenAssist/main/assets/lambda-stubs.zip"
+}
